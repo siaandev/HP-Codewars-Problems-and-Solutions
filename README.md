@@ -13,6 +13,6 @@ This repository contains a curated collection of problems and their solutions fr
 To provide a comprehensive archive for learning, practicing, and sharing insights into the challenges presented at HP CodeWars. This repository is designed for students, developers, and enthusiasts who want to explore competitive programming challenges and their solutions.  
 
 ## Contributions  
-Feel free to contribute by submitting your own solutions, optimizing existing ones, or adding problems from other HP CodeWars tournaments.  
+Feel free to contribute by submitting your own solutions, optimizing existing ones, or adding problems from other HP CodeWars tournaments. And don't forget to leave a star if you find the repository useful, thank you in advance! ✔
 
 <!--- Feel free to leave a star if you found this repository helpful! --->
